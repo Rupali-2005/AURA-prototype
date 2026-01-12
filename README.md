@@ -1,5 +1,7 @@
 # AURA — Career Alignment System
 
+[Link : AURA Demo](https://aura-prototype-v1.vercel.app/) 
+
 AURA is an AI-powered prototype designed to help users align their skills, goals, and actions into a coherent growth trajectory.
 
 Unlike traditional career platforms that offer generic recommendations, AURA focuses on **contextual alignment** — helping users understand where they stand, why certain actions matter, and how their efforts connect over time.
